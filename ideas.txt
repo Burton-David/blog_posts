@@ -1,1 +1,5 @@
 
+Working through a Python tutorial with the goal of becoming better at interview questions!  Work on the process...
+Step 1- make sure you understand what is being asked
+-know the input and what kind of output they are requesting.  
+TR
