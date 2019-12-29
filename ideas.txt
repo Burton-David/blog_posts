@@ -3,3 +3,4 @@ Working through a Python tutorial with the goal of becoming better at interview 
 Step 1- make sure you understand what is being asked
 -know the input and what kind of output they are requesting.  
 TR
+Run through python for coding course and write about each type of problem.
