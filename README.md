@@ -1,3 +1,2 @@
 # blog_posts
-## I am going to keep most of my projects for blogposts within this repository
-#Add extra series
+This is no longer an active project I am working on.  It is being kept up for later integration with other portfolio projects.  
